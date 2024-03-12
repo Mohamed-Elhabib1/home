@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517763299422",
+    "project_id": "lymo-delevry",
+    "storage_bucket": "lymo-delevry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517763299422:android:93d517565a26f29812dccf",
+        "android_client_info": {
+          "package_name": "com.mycompany.lymo01dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1vhL-2FYkpObiqds-r2kIQGgwJnvJq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

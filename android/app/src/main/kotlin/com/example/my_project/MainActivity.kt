@@ -1,0 +1,6 @@
+package com.mycompany.lymo01dev
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
